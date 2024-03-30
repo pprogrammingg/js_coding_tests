@@ -7,5 +7,5 @@ const { pattern_match } = require('./strings_1.js')
 // console.log(res)
 
 //--- strings_1
-let res = pattern_match('010', 'abcd');
-conslone.log(`main res ${res}`);
+let res = pattern_match('010', 'abad')
+console.log(`main res ${res}`)
